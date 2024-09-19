@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    text-align: right;
+}
